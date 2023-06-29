@@ -33,15 +33,6 @@ We conducted experiments on T5, Open AI, and Roberta models for general and fact
 
 These results highlight the potential of T5 as the preferred model for general queries, while Open AI and Roberta can be used as alternative models. However, for fact-based queries, T5 proved to be the most effective model, followed by Open AI and Roberta. These results were obtained from our experimentation repository, which includes all the code, data, and results. For more details, please refer to our report website. To experience our demo version, please visit our demo website and demo repository.
 
-## Report Website
-
-We have also created a website where you can find a detailed report of our experiments, including the methodology, results, and analysis. You can access the report website at https://yash8005.gitlab.io/code-maroon-report/
-
-## Demo Website and Repo
-
-If you are interested in trying out the demo version of Code Maroon, you can visit our demo website at https://codemaroon.streamlit.app/ or check out the demo repository at https://github.com/yash8005/code-maroon-deploy.
-
-![Project Showcase](https://github.com/BhaShah12/BhaShah12.github.io/blob/main/images/showcase11.jpeg)
 
 
 
